@@ -1,0 +1,46 @@
+    {   "id"                      : 10
+    ,   "params"                  :
+        {   "contractType"        : "joint"
+        ,   "country"             : "fr"
+        ,   "currentAge"          : 49
+        ,   "fund"                : "50/50"
+        ,   "initialContribution" : 4050000
+        ,   "premiumChargeRate"   : 0.0016
+        ,   "retirementAge"       : 69
+        ,   "version"             : "4.1"
+        ,   "marketScenario"      : "favorable"
+        }
+    ,   "yearByYearExpectations"  :
+        [   { "age": 49, "annualReturnRate":  0     , "benefitBase":  4043520, "accountValue":  4043520, "annualIncome":      0 }
+        ,   { "age": 50, "annualReturnRate":  0.432 , "benefitBase":  5612488, "accountValue":  5612488, "annualIncome":      0 }
+        ,   { "age": 51, "annualReturnRate":  0.2011, "benefitBase":  6514681, "accountValue":  6514681, "annualIncome":      0 }
+        ,   { "age": 52, "annualReturnRate":  0.0739, "benefitBase":  6746504, "accountValue":  6746504, "annualIncome":      0 }
+        ,   { "age": 53, "annualReturnRate":  0.0946, "benefitBase":  7123977, "accountValue":  7123977, "annualIncome":      0 }
+        ,   { "age": 54, "annualReturnRate":  0.0864, "benefitBase":  7465095, "accountValue":  7465095, "annualIncome":      0 }
+        ,   { "age": 55, "annualReturnRate":  0.0743, "benefitBase":  7733676, "accountValue":  7733676, "annualIncome":      0 }
+        ,   { "age": 56, "annualReturnRate":  0.0831, "benefitBase":  8078878, "accountValue":  8078878, "annualIncome":      0 }
+        ,   { "age": 57, "annualReturnRate":  0.0705, "benefitBase":  8339337, "accountValue":  8339337, "annualIncome":      0 }
+        ,   { "age": 58, "annualReturnRate":  0.1616, "benefitBase":  9355708, "accountValue":  9355708, "annualIncome":      0 }
+        ,   { "age": 59, "annualReturnRate":  0.0459, "benefitBase":  9430905, "accountValue":  9430905, "annualIncome":      0 }
+        ,   { "age": 60, "annualReturnRate":  0.172 , "benefitBase": 10676829, "accountValue": 10676829, "annualIncome":      0 }
+        ,   { "age": 61, "annualReturnRate":  0.095 , "benefitBase": 11278409, "accountValue": 11278409, "annualIncome":      0 }
+        ,   { "age": 62, "annualReturnRate":  0.1744, "benefitBase": 12795045, "accountValue": 12795045, "annualIncome":      0 }
+        ,   { "age": 63, "annualReturnRate":  0.0962, "benefitBase": 13531082, "accountValue": 13531082, "annualIncome":      0 }
+        ,   { "age": 64, "annualReturnRate":  0.1064, "benefitBase": 14445257, "accountValue": 14445257, "annualIncome":      0 }
+        ,   { "age": 65, "annualReturnRate": -0.0204, "benefitBase": 14445257, "accountValue": 13619230, "annualIncome":      0 }
+        ,   { "age": 66, "annualReturnRate": -0.0574, "benefitBase": 14445257, "accountValue": 12333659, "annualIncome":      0 }
+        ,   { "age": 67, "annualReturnRate": -0.0615, "benefitBase": 14445257, "accountValue": 11101380, "annualIncome":      0 }
+        ,   { "age": 68, "annualReturnRate":  0.1822, "benefitBase": 14445257, "accountValue": 12629324, "annualIncome":      0 }
+        ,   { "age": 69, "annualReturnRate":  0.0731, "benefitBase": 14445257, "accountValue": 13042803, "annualIncome":      0 }
+        ,   { "age": 70, "annualReturnRate":  0.11  , "benefitBase": 14445257, "accountValue": 13432275, "annualIncome": 476693 }
+        ,   { "age": 71, "annualReturnRate":  0.0625, "benefitBase": 14445257, "accountValue": 13250072, "annualIncome": 476693 }
+        ,   { "age": 72, "annualReturnRate":  0.008 , "benefitBase": 14445257, "accountValue": 12376557, "annualIncome": 476693 }
+        ,   { "age": 73, "annualReturnRate": -0.0845, "benefitBase": 14445257, "accountValue": 10435293, "annualIncome": 476693 }
+        ,   { "age": 74, "annualReturnRate":  0.1495, "benefitBase": 14445257, "accountValue": 10987419, "annualIncome": 476693 }
+        ,   { "age": 75, "annualReturnRate":  0.1097, "benefitBase": 14445257, "accountValue": 11197764, "annualIncome": 476693 }
+        ,   { "age": 76, "annualReturnRate":  0.0262, "benefitBase": 14445257, "accountValue": 10547260, "annualIncome": 476693 }
+        ,   { "age": 77, "annualReturnRate":  0.0766, "benefitBase": 14445257, "accountValue": 10392968, "annualIncome": 476693 }
+        ,   { "age": 78, "annualReturnRate":  0.0854, "benefitBase": 14445257, "accountValue": 10316171, "annualIncome": 476693 }
+        ,   { "age": 79, "annualReturnRate":  0.0501, "benefitBase": 14445257, "accountValue":  9893963, "annualIncome": 476693 }
+        ]
+    }
